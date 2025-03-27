@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : “Stanley Zheng”# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "未名"
+  zhihu            : "wei-ming-97-98"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

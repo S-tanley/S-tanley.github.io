@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "https://s-tanley.github.io/blogs/"
     
   - title: "CV"
     url: /cv/

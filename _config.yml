@@ -22,7 +22,7 @@ repository               : "s-tanley/s-tanley.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/CleanShot 2024-06-08 at 10.16.19@2x.png"
+  avatar           : "CleanShot 2024-06-08 at 10.16.19@2x.png"
   name             : "Bowen Zheng (郑博文)"
   pronouns         : "he/his"  
   # bio              : "Short biography for the left-hand sidebar"

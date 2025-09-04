@@ -24,7 +24,7 @@ main:
     url: "https://s-tanley.github.io/blogs/"
     
   - title: "CV"
-    url: /cv/
+    url: "http://academicpages.github.io/files/Research.pdf"
     
   # - title: "CV"
   #   url: /cv-json/

@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at the **University of Wisconsin-Madison**, pursuing a double major in **Computer Sciences** and **Statistics**.
+I am a first year Ph.D. student at the **University of Central Florida**, advised by [Prof. Hao Zheng](https://www.ece.ucf.edu/~hzheng/).
 
-My academic interests lie at the intersection of **MLSys**, **distributed systems**, and **computational efficiency**. I am passionate about optimizing complex models to enable faster inference and more efficient resource utilization. My current research projects explore applying these ideas to **music generation** and **multi-modal models**.
+Before joining UCF, I completed my undergraduate education at both **Sichuan University** and the **University of Wisconsin–Madison**. I spent the first two years of my undergraduate studies at Sichuan University before transferring to UW–Madison. Through this academic path, I earned a **B.S. in Computer Science from Sichuan University** and a **B.S. in Computer Sciences and Statistics from UW–Madison**.
+
+My research interests lie at the intersection of **computer architecture**, **machine learning systems**, and **efficient computing**. I am particularly interested in designing scalable and efficient systems for modern AI workloads, with an emphasis on hardware–software co-design, inference acceleration, and distributed and heterogeneous systems. My previous work explored real-time language model inference for live music accompaniment.
 
 Outside of my academic pursuits, I am an avid fan of **soccer**, spending most of my free time playing and watching matches. I also enjoy a variety of indoor hobbies like **reading**, **watching movies**, and **anime**.
 
-I am always looking for opportunities to apply my skills and collaborate on challenging projects. Feel free to get in touch!
+I am always happy to connect with researchers working on computer systems, architecture, and efficient AI. Feel free to get in touch!
 
 Research Interest
 ======
 My main research interest is focusing on MLSys:
-* **Performance & Efficiency**: Developing techniques for inference acceleration and enhancing overall model efficiency.
-* **System Architecture**: Exploring optimization strategies for distributed systems and heterogeneous systems.
-* **Application Domains**: Applying MLSys principles to music generation models and multi-modal models.
+* **AI/ML Systems and Efficient Inference**: Designing systems that improve the performance, scalability, and efficiency of modern machine learning workloads.
+* **Computer Architecture and Hardware–Software Co-design**: Exploring architectures and system-level optimizations for emerging AI applications.
+* **Distributed and Heterogeneous Systems**: Improving workload execution and resource utilization across diverse computing platforms.
+* **Real-Time Generative AI**: Applying efficient system techniques to latency-sensitive applications such as music generation and multimodal models.
